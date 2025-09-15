@@ -1,4 +1,4 @@
-user_input = str(input("enter a word like (mooooodaaaaillllll): "))
+user_input = input("enter a word like (mooooodaaaaillllll): ")
 result = ""
 last_char = ""
 
